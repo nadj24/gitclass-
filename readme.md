@@ -12,4 +12,4 @@ just making a change to see how to deal with the change from the remote
 
 another modification 
 
-make a change so local and remote branches diverge
+make a change so local and remote branches diverge 2 
