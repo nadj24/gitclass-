@@ -8,4 +8,6 @@ i feel like i like git
 add some modification non conflict case 
 
 
-just making a change to see how to deal with the change from the remote
+just making a change to see how to deal with the change from the remote 
+
+another modification 
